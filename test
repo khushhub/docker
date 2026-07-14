@@ -1,0 +1,12 @@
+[33mcommit 0dc152d3744570d65287ac618393cd2f6d7c7ff0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: khushhub <khushkushwaha45@gmail.com>
+Date:   Tue Jul 14 16:01:47 2026 +0530
+
+    docker cicd yaml file
+
+M	DockerFile
+M	app.py
+M	github/workflow/cicd.yml
+M	requirement.txt
+D	test
+M	test_app.py
